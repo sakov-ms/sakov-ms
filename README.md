@@ -2,8 +2,10 @@
 
 Prerequisites
 1. You need an OpenAI API Key, Tavily Search API Key, Open Weather Map API Key and M365 Developer Tenant
-2. You need to install Python, Jupyter notebook, PIP
-3. You need to install the following Python Packages - Jupyter, Python, LangChain, MSGraph, AzureIdentity
+2. You will need to buy a license to use the OpenAI GPT models
+3. You need to install Python, Jupyter notebook, PIP
+4. You need to install the following Python Packages - Jupyter, Python, LangChain, MSGraph, AzureIdentity
+5. Add the key values to the .env file 
 
 
 
