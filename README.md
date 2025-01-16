@@ -5,7 +5,7 @@ Prerequisites
 2. You will need to buy a license to use the OpenAI GPT models
 3. You need to install Python, Jupyter notebook, PIP
 4. You need to install the following Python Packages - Jupyter, Python, LangChain, MSGraph, AzureIdentity
-5. Add the key values to the .env file 
+5. Add the API key values you obtained in #1 to the .env file 
 
 
 
